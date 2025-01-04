@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">ToeicSwRecord</string>
+
+    <string name="memo">(任意)</string>
+    <string name="record">記録</string>
+
+    <!-- ToeicSwRecord -->
+    <string name="toeic_sw_writing_score">200</string>
+    <string name="toeic_sw_speaking_score">200</string>
 </resources>
